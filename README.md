@@ -15,7 +15,7 @@ Attrition	员工是否已经离职，Yes表示离职，No表示未离职
 BusinessTravel	商务差旅频率，Non-Travel不出差，TravelRarely不经常出差，TravelFrequently经常出差
 DailyRate	平均每日工资
 Department	员工所在部门，Sales销售部，Research & Development研发部，Human
-Resources人力资源部	
+Resources人力资源部
 DistanceFromHome	公司跟家庭住址的距离，从1到29，1表示最近，29表示最远
 Education	员工的教育程度，从1到5，5表示教育程度最高
 EducationField	员工所学习的专业领域，Life Sciences表示生命科学，Medical表示医疗，Marketing表示市场营销，Technical Degree表示技术学位，Human Resources表示人力资源，Other表示其他
